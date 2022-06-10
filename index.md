@@ -5,3 +5,6 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] List1
+- [x] List2
+- [ ] List3
